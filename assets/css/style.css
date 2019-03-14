@@ -1,0 +1,15 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+    .anim {
+      background: #4aaaa5;
+      color: #fff;
+    }
+
+    #animal-form {
+      float: right;
+    }
